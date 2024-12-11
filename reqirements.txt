@@ -1,0 +1,8 @@
+Django==4.2.3 # Веб-фреймворк
+djangorestframework==3.15.2 # Надстройка над Django подключает механизм API
+djangorestframework-simplejwt==5.3.1 # Получение токена для аутентификации пользователя
+drf-spectacular==0.27.2 # Автогенерация документации Swager
+django-filter==24.3
+psycopg2-binary==2.9.10 # Интеграция с БД PostgreSQL
+pillow==11.0.0 # Библиотека для работы с изображениями
+python-dotenv==1.0.1 # Библиотека для скрытия данных в файле .env
